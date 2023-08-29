@@ -1,0 +1,24 @@
+.person__image {
+    background-position: center;
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.person__image-gordon {
+    background-image: url(../../img/people/gordon.jpeg);
+}
+
+
+.person__image-roger {
+    background-image: url(../../img/people/roger.jpeg);
+}
+
+
+.person__image-ry {
+    background-image: url(../../img/people/ninongry.jpg);
+}
+
